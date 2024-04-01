@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Muhammed Olamilekan - [Github](https://github.com/Muhadev) / [Twitter](https://twitter.com/Muhadev)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+zaharaddeen sanusi - [Github](https://github.com/deenyshomar) / [Twitter](https://twitter.com/deenyshomar)
 
 Second part of Airbnb: Joann Vuong
 ## License
