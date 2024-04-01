@@ -1,7 +1,11 @@
+#!/usr/bin/python3
+""" API test stats"""
 from api.v1.views import app_views
 from flask import jsonify
+from models import storage
 
-# Define a route /status on the app_views Blueprint
-@app_views.route('/status', methods=['GET'])
+
+@app_views.route('/status')
 def status():
+    """status"""
     return jsonify({"status": "OK"})
