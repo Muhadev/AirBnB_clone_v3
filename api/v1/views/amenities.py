@@ -11,7 +11,7 @@ def amenity():
     """state"""
     list_amenity = []
     for amenity_objs in storage.all('Amenity').values():
-            list_amenity.append(amenity_objs.to_dict())
+        list_amenity.append(amenity_objs.to_dict())
     return jsonify(list_amenity)
 
 
